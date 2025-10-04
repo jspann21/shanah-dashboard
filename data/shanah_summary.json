@@ -1,0 +1,522 @@
+{
+  "total_rows": 878,
+  "number_counts": {
+    "plural": 192,
+    "singular": 673,
+    "dual": 12,
+    "singular, plural": 1
+  },
+  "gender_counts": {
+    "masculine": 174,
+    "feminine": 704
+  },
+  "state_counts": {
+    "absolute": 691,
+    "construct": 185,
+    "construct, absolute": 2
+  },
+  "number_by_gender": {
+    "masculine": {
+      "plural": 173,
+      "singular, plural": 1
+    },
+    "feminine": {
+      "singular": 673,
+      "dual": 12,
+      "plural": 19
+    }
+  },
+  "book_counts": {
+    "Genesis": 161,
+    "Exodus": 30,
+    "Leviticus": 59,
+    "Numbers": 92,
+    "Deuteronomy": 29,
+    "Joshua": 6,
+    "Judges": 24,
+    "1 Samuel": 10,
+    "2 Samuel": 20,
+    "1 Kings": 58,
+    "2 Kings": 104,
+    "Isaiah": 27,
+    "Jeremiah": 46,
+    "Ezekiel": 28,
+    "Joel": 2,
+    "Amos": 3,
+    "Micah": 1,
+    "Habakkuk": 2,
+    "Haggai": 3,
+    "Zechariah": 8,
+    "Malachi": 1,
+    "Psalm": 14,
+    "Job": 8,
+    "Proverbs": 5,
+    "Ruth": 1,
+    "Ecclesiastes": 5,
+    "Esther": 7,
+    "Daniel": 14,
+    "Ezra": 5,
+    "Nehemiah": 14,
+    "1 Chronicles": 13,
+    "2 Chronicles": 78
+  },
+  "book_stats": {
+    "Genesis": {
+      "total": 161,
+      "gender_counts": {
+        "masculine": 49,
+        "feminine": 112
+      },
+      "number_counts": {
+        "plural": 49,
+        "singular": 109,
+        "dual": 3
+      },
+      "state_counts": {
+        "absolute": 144,
+        "construct": 17
+      }
+    },
+    "Exodus": {
+      "total": 30,
+      "gender_counts": {
+        "masculine": 5,
+        "feminine": 25
+      },
+      "number_counts": {
+        "plural": 5,
+        "singular": 25
+      },
+      "state_counts": {
+        "construct": 3,
+        "absolute": 27
+      }
+    },
+    "Leviticus": {
+      "total": 59,
+      "gender_counts": {
+        "feminine": 40,
+        "masculine": 19
+      },
+      "number_counts": {
+        "singular": 40,
+        "plural": 19
+      },
+      "state_counts": {
+        "absolute": 38,
+        "construct": 21
+      }
+    },
+    "Numbers": {
+      "total": 92,
+      "gender_counts": {
+        "feminine": 91,
+        "masculine": 1
+      },
+      "number_counts": {
+        "singular": 91,
+        "plural": 1
+      },
+      "state_counts": {
+        "absolute": 75,
+        "construct": 17
+      }
+    },
+    "Deuteronomy": {
+      "total": 29,
+      "gender_counts": {
+        "feminine": 24,
+        "masculine": 5
+      },
+      "number_counts": {
+        "singular": 23,
+        "plural": 6
+      },
+      "state_counts": {
+        "absolute": 24,
+        "construct": 5
+      }
+    },
+    "Joshua": {
+      "total": 6,
+      "gender_counts": {
+        "feminine": 5,
+        "masculine": 1
+      },
+      "number_counts": {
+        "singular": 5,
+        "plural": 1
+      },
+      "state_counts": {
+        "absolute": 6
+      }
+    },
+    "Judges": {
+      "total": 24,
+      "gender_counts": {
+        "masculine": 9,
+        "feminine": 15
+      },
+      "number_counts": {
+        "plural": 9,
+        "singular": 15
+      },
+      "state_counts": {
+        "absolute": 24
+      }
+    },
+    "1 Samuel": {
+      "total": 10,
+      "gender_counts": {
+        "feminine": 8,
+        "masculine": 2
+      },
+      "number_counts": {
+        "singular": 8,
+        "plural": 2
+      },
+      "state_counts": {
+        "absolute": 10
+      }
+    },
+    "2 Samuel": {
+      "total": 20,
+      "gender_counts": {
+        "feminine": 12,
+        "masculine": 8
+      },
+      "number_counts": {
+        "singular": 10,
+        "plural": 8,
+        "dual": 2
+      },
+      "state_counts": {
+        "absolute": 19,
+        "construct": 1
+      }
+    },
+    "1 Kings": {
+      "total": 58,
+      "gender_counts": {
+        "feminine": 49,
+        "masculine": 9
+      },
+      "number_counts": {
+        "singular": 46,
+        "plural": 9,
+        "dual": 3
+      },
+      "state_counts": {
+        "absolute": 46,
+        "construct": 12
+      }
+    },
+    "2 Kings": {
+      "total": 104,
+      "gender_counts": {
+        "feminine": 92,
+        "masculine": 12
+      },
+      "number_counts": {
+        "singular": 91,
+        "plural": 11,
+        "singular, plural": 1,
+        "dual": 1
+      },
+      "state_counts": {
+        "construct": 29,
+        "absolute": 75
+      }
+    },
+    "Isaiah": {
+      "total": 27,
+      "gender_counts": {
+        "feminine": 23,
+        "masculine": 4
+      },
+      "number_counts": {
+        "singular": 21,
+        "plural": 6
+      },
+      "state_counts": {
+        "construct": 10,
+        "absolute": 17
+      }
+    },
+    "Jeremiah": {
+      "total": 46,
+      "gender_counts": {
+        "feminine": 44,
+        "masculine": 2
+      },
+      "number_counts": {
+        "singular": 42,
+        "dual": 2,
+        "plural": 2
+      },
+      "state_counts": {
+        "absolute": 33,
+        "construct": 11,
+        "construct, absolute": 2
+      }
+    },
+    "Ezekiel": {
+      "total": 28,
+      "gender_counts": {
+        "feminine": 24,
+        "masculine": 4
+      },
+      "number_counts": {
+        "singular": 23,
+        "plural": 5
+      },
+      "state_counts": {
+        "absolute": 24,
+        "construct": 4
+      }
+    },
+    "Joel": {
+      "total": 2,
+      "gender_counts": {
+        "masculine": 2
+      },
+      "number_counts": {
+        "plural": 2
+      },
+      "state_counts": {
+        "construct": 1,
+        "absolute": 1
+      }
+    },
+    "Amos": {
+      "total": 3,
+      "gender_counts": {
+        "feminine": 3
+      },
+      "number_counts": {
+        "dual": 1,
+        "singular": 2
+      },
+      "state_counts": {
+        "absolute": 3
+      }
+    },
+    "Micah": {
+      "total": 1,
+      "gender_counts": {
+        "feminine": 1
+      },
+      "number_counts": {
+        "singular": 1
+      },
+      "state_counts": {
+        "absolute": 1
+      }
+    },
+    "Habakkuk": {
+      "total": 2,
+      "gender_counts": {
+        "masculine": 2
+      },
+      "number_counts": {
+        "plural": 2
+      },
+      "state_counts": {
+        "absolute": 2
+      }
+    },
+    "Haggai": {
+      "total": 3,
+      "gender_counts": {
+        "feminine": 3
+      },
+      "number_counts": {
+        "singular": 3
+      },
+      "state_counts": {
+        "construct": 3
+      }
+    },
+    "Zechariah": {
+      "total": 8,
+      "gender_counts": {
+        "feminine": 7,
+        "masculine": 1
+      },
+      "number_counts": {
+        "singular": 7,
+        "plural": 1
+      },
+      "state_counts": {
+        "construct": 3,
+        "absolute": 5
+      }
+    },
+    "Malachi": {
+      "total": 1,
+      "gender_counts": {
+        "masculine": 1
+      },
+      "number_counts": {
+        "plural": 1
+      },
+      "state_counts": {
+        "absolute": 1
+      }
+    },
+    "Psalm": {
+      "total": 14,
+      "gender_counts": {
+        "feminine": 12,
+        "masculine": 2
+      },
+      "number_counts": {
+        "plural": 10,
+        "singular": 4
+      },
+      "state_counts": {
+        "construct": 9,
+        "absolute": 5
+      }
+    },
+    "Job": {
+      "total": 8,
+      "gender_counts": {
+        "feminine": 4,
+        "masculine": 4
+      },
+      "number_counts": {
+        "singular": 2,
+        "plural": 6
+      },
+      "state_counts": {
+        "absolute": 4,
+        "construct": 4
+      }
+    },
+    "Proverbs": {
+      "total": 5,
+      "gender_counts": {
+        "feminine": 5
+      },
+      "number_counts": {
+        "plural": 5
+      },
+      "state_counts": {
+        "construct": 4,
+        "absolute": 1
+      }
+    },
+    "Ruth": {
+      "total": 1,
+      "gender_counts": {
+        "masculine": 1
+      },
+      "number_counts": {
+        "plural": 1
+      },
+      "state_counts": {
+        "absolute": 1
+      }
+    },
+    "Ecclesiastes": {
+      "total": 5,
+      "gender_counts": {
+        "masculine": 5
+      },
+      "number_counts": {
+        "plural": 5
+      },
+      "state_counts": {
+        "absolute": 4,
+        "construct": 1
+      }
+    },
+    "Esther": {
+      "total": 7,
+      "gender_counts": {
+        "feminine": 7
+      },
+      "number_counts": {
+        "singular": 7
+      },
+      "state_counts": {
+        "construct": 3,
+        "absolute": 4
+      }
+    },
+    "Daniel": {
+      "total": 14,
+      "gender_counts": {
+        "feminine": 9,
+        "masculine": 5
+      },
+      "number_counts": {
+        "singular": 9,
+        "plural": 5
+      },
+      "state_counts": {
+        "construct": 8,
+        "absolute": 6
+      }
+    },
+    "Ezra": {
+      "total": 5,
+      "gender_counts": {
+        "feminine": 5
+      },
+      "number_counts": {
+        "singular": 5
+      },
+      "state_counts": {
+        "construct": 3,
+        "absolute": 2
+      }
+    },
+    "Nehemiah": {
+      "total": 14,
+      "gender_counts": {
+        "feminine": 12,
+        "masculine": 2
+      },
+      "number_counts": {
+        "singular": 12,
+        "plural": 2
+      },
+      "state_counts": {
+        "construct": 5,
+        "absolute": 9
+      }
+    },
+    "1 Chronicles": {
+      "total": 13,
+      "gender_counts": {
+        "feminine": 10,
+        "masculine": 3
+      },
+      "number_counts": {
+        "singular": 10,
+        "plural": 3
+      },
+      "state_counts": {
+        "absolute": 12,
+        "construct": 1
+      }
+    },
+    "2 Chronicles": {
+      "total": 78,
+      "gender_counts": {
+        "feminine": 62,
+        "masculine": 16
+      },
+      "number_counts": {
+        "singular": 62,
+        "plural": 16
+      },
+      "state_counts": {
+        "construct": 10,
+        "absolute": 68
+      }
+    }
+  }
+}
